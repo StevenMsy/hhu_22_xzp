@@ -24,4 +24,9 @@ The first major question of the final exam for Computer Architecture is an essay
 
 
 ## Notes
+In addition to the essay question, there are also computational problems, application problems, and Verilog programming questions. If you aim to achieve high scores in these questions, diligently follow Professor Xie's instructions.
 
+The instructions are as follows:
+<div align="center">
+  <img src="assets/wangdao2.png" alt="Understanding Image" style="width: 60%;">
+</div>
