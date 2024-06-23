@@ -1,2 +1,4 @@
-# hhu_22_xzp
-河海大学22级计组概念题回忆版（xzp授课）
+<div align="center">
+## YOUR ARE REALLY TALENTED
+<img src="assets/understanding.png" alt="Logo" width="8">
+</div>
